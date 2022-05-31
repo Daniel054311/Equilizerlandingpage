@@ -1,0 +1,5258 @@
+/*@media  (width:px){
+    body{
+        background-color: white;
+        width: auto;
+    }
+    .fblur{
+        position: absolute;
+    width: 384px;
+    height: 384px;
+    left: -146px;
+    top: -112px;
+    
+    background: #FF7B40;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(135.914px);
+    }
+    .sblur{
+        position: absolute;
+    width: 40%;
+    height: 60%;
+    left: 0%;
+    top: 371.5px;
+    
+    background: #FF9201;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(135.914px);
+    
+    }
+    .tblur{
+    
+        position: absolute;
+        width: 40%;
+        height: 60%;
+        left: 0%;
+        top: 60%;
+        
+        background: #40FFF6;
+        mix-blend-mode: normal;
+        opacity: 0.1;
+        filter: blur(135.914px);
+    }
+    .frtblur{
+        
+    position: absolute;
+    width: 384px;
+    height: 384px;
+    left: 0%;
+    top: 200%;
+    
+    background: #FF7B40;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(100.914px);
+    
+    }
+     
+    .equalizer{
+        font-size: 33px;
+        left: 9%;
+    }
+     .head{
+   font-size: 50px;
+   left: 9%;
+   width: 80vw;
+   line-height: 60px;
+   top: 20%;
+     }     
+       
+   .msg{
+       width: 90%;
+       width: 80vw;
+       font-size: 29px;
+       top: 49.5%;
+   }
+   .mySecondSection{
+       display: none;
+   }
+   .wrapper{
+    top: 120vh;
+    width: 80vw;
+    left: 9%;
+    height: 60%;
+}
+   .phone{
+    width: 45vw;
+    left: 17%;
+    height: 80%;
+    border-bottom-left-radius: 26px;
+   border-bottom-right-radius: 25px;
+}
+.boxContainer{
+    position: absolute;
+    width: 80vw;
+    left: 9%;
+    height: 60%;
+    top: 170.5%;
+    background-color: #FA7453;
+    }
+    .premium{
+top: 3%;
+font-size: 20px;
+        
+    }
+    .text2{
+        font-size: 17px;
+        width: 80%;
+        word-spacing: 2px;
+    
+    }
+
+    .text3{
+        top: 50%;
+        font-size: 90px;
+    }
+    #path{
+        Width:20px;
+    Height:16.25px;
+    position: absolute;
+    
+    left: 1.15px;
+    top: 39.87%;
+    bottom: 39.87%;
+    color: #191826;
+    }
+    #shape{
+        position: absolute;
+        left: 1.15px;
+    
+        top: 39.87%;
+        bottom: 39.87%;
+    }
+    #path1{
+        position: absolute;
+        left: 1.15px;
+    
+        top: 39.87%;
+        bottom: 39.87%;
+    }
+    
+}
+
+*/
+
+/*480*/
+
+/*
+@media  (width:480px){
+    body{
+        background-color: white;
+        width: auto;
+    }
+    .equalizer{
+        font-size: 33px;
+        left: 5%;
+    }
+     .head{
+   font-size: 50px;
+   left: 9%;
+   width: 100vw;
+     }     
+       
+   .msg{
+       width: 95%;
+    
+       font-size: 29px;
+   }
+   
+   .wrapper{
+       top: 115vh;
+       width: 120vw;
+       left: 9%;
+       height: 70%;
+   }
+   .phone{
+       width: 60.2vw;
+       height: 75%;
+       left: 19%;
+       border-bottom-left-radius: 26px;
+      border-bottom-right-radius: 25px;
+   }
+   .equalizer2{
+       left: 9%;
+       top:-20vh;
+       font-size: 40px;
+   }
+   .right{
+       left: 5%;
+       top:5px;
+       width: 100%;
+    font-size: 26px;
+   
+       
+   }
+  
+   .boxContainer{
+       position: absolute;
+       width: 120vw;
+       height: 70%;
+       left: 9%;
+       top: 175.5%;
+       background-color: #FA7453;
+       }
+       .premium{
+   top: 3%;
+   font-size: 50px;
+           
+       }
+       .text2{
+           font-size: 30px;
+           width: 80%;
+           word-spacing: 6px;
+       }
+   
+       .text3{
+           top: 50%;
+           font-size: 90px;
+       }
+       .month{
+        top: 55%; 
+        left: 35%;
+       }
+       .mySecondSection{
+           
+          display: none;
+          }
+          .circle1{
+           width: 18%;
+           height: 30%;
+           left: 20%;
+          }
+          .rectangle{
+   
+   text-align: center;
+   }
+   .circle1{
+       width: 18%;
+       height: 30%;
+       left: 20%;
+      }
+   .rectangle{
+   text-align: center;    
+   }   
+   .img_logo{
+   bottom: 35%;  
+   }
+   .recShape1{
+   left: 60%;
+   }
+   .circle2{
+   width: 20%;
+   top: 70%;
+   height: 27%;
+   }
+   .circle3{
+   width: 10%;
+   height: 13%; 
+   top: 80%;  
+   }
+   .fifthsection{
+    
+    position: absolute;
+    width: 90%;
+   
+    left: 9%;
+    top: 270%;
+    }
+    .group8{
+left: 5%;
+top: 190px;
+
+    }
+    #path {
+      
+    left: 10px;
+        width: 50px;
+        height: 50px;
+         
+       
+    } #shape{
+        
+        left: 40px;
+        width: 50px;
+        height: 50px;
+    } 
+    
+    #path1{
+     
+        left: 100px;
+        width: 50px;
+        height: 50px;
+    }
+    .fblur{
+        position: absolute;
+    width: 384px;
+    height: 384px;
+    left: -60px;
+    top: -90px;
+    
+    background: #FF7B40;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(135.914px);
+    }
+    .sblur{
+        position: absolute;
+        width: 384px;
+        height: 384px;
+        left: 25%;
+    top: 371.5px;
+    
+    background: #FF9201;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(135.914px);
+    
+    }
+    .tblur{
+    
+        position: absolute;
+        width: 40%;
+        height: 60%;
+        left: 25%;
+        top: 60%;
+        
+        background: #40FFF6;
+        mix-blend-mode: normal;
+        opacity: 0.1;
+        filter: blur(135.914px);
+    }
+    .frtblur{
+        
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    left: 25%;
+    top: 340%;
+    
+    background: #FF7B40;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(100.914px);
+    
+    }
+
+
+
+
+    
+   }
+*/
+
+/*375*/
+/*
+@media  (width:375px){
+    body{
+        background-color: white;
+        width: auto;
+    }
+    .equalizer{
+        font-size: 33px;
+        left: 5%;
+    }
+     .head{
+   font-size: 50px;
+   left: 9%;
+   width: 130vw;
+     }     
+       
+   .msg{
+       width: 95%;
+    
+       font-size: 29px;
+   }
+   
+   .wrapper{
+       
+     
+       left: 9%;
+       height: 70%;
+         width: 120vw;
+       top: 130vh;
+   }
+   .phone{
+       width: 60.2vw;
+       height: 85%;
+       left: 19%;
+       top: -30%;
+       border-bottom-left-radius: 26px;
+      border-bottom-right-radius: 25px;
+   }
+   .equalizer2{
+       left: 9%;
+       top:-20vh;
+       font-size: 40px;
+   }
+   .right{
+       left: 5%;
+       top:5px;
+       width: 100%;
+    font-size: 26px;
+   
+       
+   }
+  
+   .boxContainer{
+       position: absolute;
+       height: 87%;
+         width: 120vw;
+       left: 9%;
+       top: 190.5%;
+       background-color: #FA7453;
+       }
+       .premium{
+   top: -5%;
+   font-size: 50px;
+           
+       }
+       .text2{
+           font-size: 30px;
+           width: 80%;
+           word-spacing: 6px;
+           top: 13%;
+       }
+   
+       .text3{
+           top: 55%;
+           font-size: 90px;
+       }
+       .month{
+        top: 60%; 
+        left: 35%;
+       }
+       .mySecondSection{
+           
+          display: none;
+          }
+          .circle1{
+           width: 18%;
+           height: 30%;
+           left: 20%;
+          }
+          .rectangle1{
+   
+  
+   background-color: black;
+   }
+   .rectangle{
+   
+    text-align: center;
+    background-color: white;
+    }
+   .circle1{
+       width: 18%;
+       height: 30%;
+       left: 20%;
+      }
+  
+   .img_logo{
+   bottom: 35%;  
+   }
+   .recShape1{
+   left: 60%;
+   }
+   .circle2{
+   width: 20%;
+   top: 70%;
+   height: 27%;
+   }
+   .circle3{
+   width: 10%;
+   height: 13%; 
+   top: 80%;  
+   }
+   .fifthsection{
+    
+    position: absolute;
+    width: 90%;
+   
+    left: 9%;
+    top: 300%;
+    }
+    .group8{
+left: 5%;
+top: 190px;
+
+    }
+    #path {
+      
+    left: 10px;
+        width: 50px;
+        height: 50px;
+         
+       
+    } #shape{
+        
+        left: 40px;
+        width: 50px;
+        height: 50px;
+    } 
+    
+    #path1{
+     
+        left: 100px;
+        width: 50px;
+        height: 50px;
+    }
+    .fblur{
+        position: absolute;
+    width: 384px;
+    height: 384px;
+    left: -60px;
+    top: -90px;
+    
+    background: #FF7B40;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(135.914px);
+    }
+    .sblur{
+        position: absolute;
+        width: 384px;
+        height: 384px;
+        left: 25%;
+    top: 371.5px;
+    
+    background: #FF9201;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(135.914px);
+    
+    }
+    .tblur{
+    
+        position: absolute;
+        width: 40%;
+        height: 60%;
+        left: 25%;
+        top: 60%;
+        
+        background: #40FFF6;
+        mix-blend-mode: normal;
+        opacity: 0.1;
+        filter: blur(135.914px);
+    }
+    .frtblur{
+        
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    left: 25%;
+    top: 340%;
+    
+    background: #FF7B40;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(100.914px);
+    
+    }
+
+
+
+
+    
+   }*/
+
+   /*414*/
+
+/*
+   @media  (width:414px){
+    body{
+        background-color: white;
+        width: auto;
+    }
+    .equalizer{
+        font-size: 33px;
+        left: 5%;
+    }
+     .head{
+   font-size: 50px;
+   left: 9%;
+   width: 130vw;
+     }     
+       
+   .msg{
+       width: 95%;
+    
+       font-size: 29px;
+   }
+   
+   .wrapper{
+       top: 115vh;
+       width: 120vw;
+       left: 9%;
+       height: 70%;
+   }
+   .phone{
+       width: 60.2vw;
+       height: 75%;
+       left: 19%;
+       border-bottom-left-radius: 26px;
+      border-bottom-right-radius: 25px;
+   }
+   .equalizer2{
+       left: 9%;
+       top:-20vh;
+       font-size: 40px;
+   }
+   .right{
+       left: 5%;
+       top:5px;
+       width: 100%;
+    font-size: 26px;
+   
+       
+   }
+  
+   .boxContainer{
+       position: absolute;
+       width: 120vw;
+       height: 70%;
+       left: 9%;
+       top: 175.5%;
+       background-color: #FA7453;
+       }
+       .premium{
+   top: 3%;
+   font-size: 50px;
+           
+       }
+       .text2{
+           font-size: 30px;
+           width: 80%;
+           word-spacing: 6px;
+       }
+   
+       .text3{
+           top: 50%;
+           font-size: 90px;
+       }
+       .month{
+        top: 55%; 
+        left: 35%;
+       }
+       .mySecondSection{
+           
+          display: none;
+          }
+          .circle1{
+           width: 18%;
+           height: 30%;
+           left: 20%;
+          }
+          .rectangle{
+   
+   text-align: center;
+   }
+   .circle1{
+       width: 18%;
+       height: 30%;
+       left: 20%;
+      }
+      .rectangle1{
+   
+  
+        background-color: black;
+        }
+        .rectangle{
+        
+         text-align: center;
+         background-color: white;
+         }  
+   .img_logo{
+   bottom: 35%;  
+   }
+   .recShape1{
+   left: 60%;
+   }
+   .circle2{
+   width: 20%;
+   top: 70%;
+   height: 27%;
+   }
+   .circle3{
+   width: 10%;
+   height: 13%; 
+   top: 80%;  
+   }
+   .fifthsection{
+    
+    position: absolute;
+    width: 90%;
+   
+    left: 9%;
+    top: 270%;
+    }
+    .group8{
+left: 5%;
+top: 190px;
+
+    }
+    #path {
+      
+    left: 10px;
+        width: 50px;
+        height: 50px;
+         
+       
+    } #shape{
+        
+        left: 40px;
+        width: 50px;
+        height: 50px;
+    } 
+    
+    #path1{
+     
+        left: 100px;
+        width: 50px;
+        height: 50px;
+    }
+    .fblur{
+        position: absolute;
+    width: 384px;
+    height: 384px;
+    left: -60px;
+    top: -90px;
+    
+    background: #FF7B40;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(135.914px);
+    }
+    .sblur{
+        position: absolute;
+        width: 384px;
+        height: 384px;
+        left: 25%;
+    top: 371.5px;
+    
+    background: #FF9201;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(135.914px);
+    
+    }
+    .tblur{
+    
+        position: absolute;
+        width: 40%;
+        height: 60%;
+        left: 25%;
+        top: 60%;
+        
+        background: #40FFF6;
+        mix-blend-mode: normal;
+        opacity: 0.1;
+        filter: blur(135.914px);
+    }
+    .frtblur{
+        
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    left: 25%;
+    top: 340%;
+    
+    background: #FF7B40;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(100.914px);
+    
+    }
+
+
+
+
+    
+   }*/
+   
+    /*390*/
+
+    /*
+    @media  (width:390px){
+        body{
+            background-color: white;
+            width: auto;
+        }
+        .equalizer{
+            font-size: 33px;
+            left: 5%;
+        }
+         .head{
+       font-size: 50px;
+       left: 9%;
+       width: 130vw;
+         }     
+           
+       .msg{
+           width: 95%;
+        
+           font-size: 29px;
+       }
+       
+       .wrapper{
+           top: 115vh;
+           width: 120vw;
+           left: 9%;
+           height: 70%;
+       }
+       .phone{
+           width: 60.2vw;
+           height: 75%;
+           left: 19%;
+           border-bottom-left-radius: 26px;
+          border-bottom-right-radius: 25px;
+       }
+       .equalizer2{
+           left: 9%;
+           top:-20vh;
+           font-size: 40px;
+       }
+       .right{
+           left: 5%;
+           top:5px;
+           width: 100%;
+        font-size: 26px;
+       
+           
+       }
+      
+       .boxContainer{
+           position: absolute;
+           width: 120vw;
+           height: 75%;
+           left: 9%;
+           top: 175.5%;
+           background-color: #FA7453;
+           }
+           .premium{
+       top: 3%;
+       font-size: 50px;
+               
+           }
+           .text2{
+               font-size: 30px;
+               width: 80%;
+               word-spacing: 6px;
+           }
+       
+           .text3{
+               top: 55%;
+               font-size: 90px;
+           }
+           .month{
+            top: 60%; 
+            left: 35%;
+           }
+           .mySecondSection{
+               
+              display: none;
+              }
+              .circle1{
+               width: 18%;
+               height: 30%;
+               left: 20%;
+              }
+              .rectangle{
+       
+       text-align: center;
+       }
+       .circle1{
+           width: 18%;
+           height: 30%;
+           left: 20%;
+          }
+          .rectangle1{
+   
+  
+            background-color: black;
+            }
+            .rectangle{
+            
+             text-align: center;
+             background-color: white;
+             }  
+       .img_logo{
+       bottom: 35%;  
+       }
+       .recShape1{
+       left: 60%;
+       }
+       .circle2{
+       width: 20%;
+       top: 70%;
+       height: 27%;
+       }
+       .circle3{
+       width: 10%;
+       height: 13%; 
+       top: 80%;  
+       }
+       .fifthsection{
+        
+        position: absolute;
+        width: 90%;
+       
+        left: 9%;
+        top: 270%;
+        }
+        .group8{
+    left: 5%;
+    top: 190px;
+    
+        }
+        #path {
+          
+        left: 10px;
+            width: 50px;
+            height: 50px;
+             
+           
+        } #shape{
+            
+            left: 40px;
+            width: 50px;
+            height: 50px;
+        } 
+        
+        #path1{
+         
+            left: 100px;
+            width: 50px;
+            height: 50px;
+        }
+        .fblur{
+            position: absolute;
+        width: 384px;
+        height: 384px;
+        left: -60px;
+        top: -90px;
+        
+        background: #FF7B40;
+        mix-blend-mode: normal;
+        opacity: 0.15;
+        filter: blur(135.914px);
+        }
+        .sblur{
+            position: absolute;
+            width: 384px;
+            height: 384px;
+            left: 25%;
+        top: 371.5px;
+        
+        background: #FF9201;
+        mix-blend-mode: normal;
+        opacity: 0.15;
+        filter: blur(135.914px);
+        
+        }
+        .tblur{
+        
+            position: absolute;
+            width: 40%;
+            height: 60%;
+            left: 25%;
+            top: 60%;
+            
+            background: #40FFF6;
+            mix-blend-mode: normal;
+            opacity: 0.1;
+            filter: blur(135.914px);
+        }
+        .frtblur{
+            
+        position: absolute;
+        width: 300px;
+        height: 300px;
+        left: 25%;
+        top: 340%;
+        
+        background: #FF7B40;
+        mix-blend-mode: normal;
+        opacity: 0.15;
+        filter: blur(100.914px);
+        
+        }
+    
+    
+    
+    
+        
+       }
+
+*/
+    /*393*/
+
+/*
+    @media  (width:393px){
+        body{
+            background-color: white;
+            width: auto;
+        }
+        .equalizer{
+            font-size: 33px;
+            left: 5%;
+        }
+         .head{
+       font-size: 50px;
+       left: 9%;
+       width: 130vw;
+         }     
+           
+       .msg{
+           width: 95%;
+        
+           font-size: 29px;
+       }
+       
+       .wrapper{
+           top: 115vh;
+           width: 120vw;
+           left: 9%;
+           height: 70%;
+       }
+       .phone{
+           width: 60.2vw;
+           height: 75%;
+           left: 19%;
+           border-bottom-left-radius: 26px;
+          border-bottom-right-radius: 25px;
+       }
+       .equalizer2{
+           left: 9%;
+           top:-20vh;
+           font-size: 40px;
+       }
+       .right{
+           left: 5%;
+           top:5px;
+           width: 100%;
+        font-size: 26px;
+       
+           
+       }
+      
+       .boxContainer{
+           position: absolute;
+           width: 120vw;
+           height: 75%;
+           left: 9%;
+           top: 175.5%;
+           background-color: #FA7453;
+           }
+           .premium{
+       top: 3%;
+       font-size: 50px;
+               
+           }
+           .text2{
+               font-size: 30px;
+               width: 80%;
+               word-spacing: 6px;
+           }
+       
+           .text3{
+               top: 55%;
+               font-size: 90px;
+           }
+           .month{
+            top: 60%; 
+            left: 35%;
+           }
+           .mySecondSection{
+               
+              display: none;
+              }
+              .circle1{
+               width: 18%;
+               height: 30%;
+               left: 20%;
+              }
+              .rectangle{
+       
+       text-align: center;
+       }
+       .circle1{
+           width: 18%;
+           height: 30%;
+           left: 20%;
+          }
+          .rectangle1{
+   
+  
+            background-color: black;
+            }
+            .rectangle{
+            
+             text-align: center;
+             background-color: white;
+             }  
+       .img_logo{
+       bottom: 35%;  
+       }
+       .recShape1{
+       left: 60%;
+       }
+       .circle2{
+       width: 20%;
+       top: 70%;
+       height: 27%;
+       }
+       .circle3{
+       width: 10%;
+       height: 13%; 
+       top: 80%;  
+       }
+       .fifthsection{
+        
+        position: absolute;
+        width: 90%;
+       
+        left: 9%;
+        top: 270%;
+        }
+        .group8{
+    left: 5%;
+    top: 190px;
+    
+        }
+        #path {
+          
+        left: 10px;
+            width: 50px;
+            height: 50px;
+             
+           
+        } #shape{
+            
+            left: 40px;
+            width: 50px;
+            height: 50px;
+        } 
+        
+        #path1{
+         
+            left: 100px;
+            width: 50px;
+            height: 50px;
+        }
+        .fblur{
+            position: absolute;
+        width: 384px;
+        height: 384px;
+        left: -60px;
+        top: -90px;
+        
+        background: #FF7B40;
+        mix-blend-mode: normal;
+        opacity: 0.15;
+        filter: blur(135.914px);
+        }
+        .sblur{
+            position: absolute;
+            width: 384px;
+            height: 384px;
+            left: 25%;
+        top: 371.5px;
+        
+        background: #FF9201;
+        mix-blend-mode: normal;
+        opacity: 0.15;
+        filter: blur(135.914px);
+        
+        }
+        .tblur{
+        
+            position: absolute;
+            width: 40%;
+            height: 60%;
+            left: 25%;
+            top: 60%;
+            
+            background: #40FFF6;
+            mix-blend-mode: normal;
+            opacity: 0.1;
+            filter: blur(135.914px);
+        }
+        .frtblur{
+            
+        position: absolute;
+        width: 300px;
+        height: 300px;
+        left: 25%;
+        top: 340%;
+        
+        background: #FF7B40;
+        mix-blend-mode: normal;
+        opacity: 0.15;
+        filter: blur(100.914px);
+        
+        }
+    
+    
+    
+    
+        
+       }
+
+
+
+       /*360*/
+/*
+    
+    @media  (width:360px){
+        body{
+            background-color: white;
+            width: auto;
+        }
+        .equalizer{
+            font-size: 33px;
+            left: 5%;
+        }
+         .head{
+       font-size: 50px;
+       left: 9%;
+       width: 130vw;
+         }     
+           
+       .msg{
+           width: 95%;
+        
+           font-size: 29px;
+       }
+       
+       .wrapper{
+           top: 115vh;
+           width: 120vw;
+           left: 9%;
+           height: 90%;
+       }
+       .phone{
+           width: 60.2vw;
+           height: 70%;
+           left: 19%;
+           top: -20%;
+           border-bottom-left-radius: 26px;
+          border-bottom-right-radius: 25px;
+       }
+       .equalizer2{
+           left: 9%;
+           top:-20vh;
+           font-size: 40px;
+       }
+       .right{
+           left: 5%;
+           top:5px;
+           width: 100%;
+        font-size: 26px;
+       
+           
+       }
+      
+       .boxContainer{
+           position: absolute;
+           width: 120vw;
+           height: 90%;
+           left: 9%;
+           top: 175.5%;
+           background-color: #FA7453;
+           }
+           .premium{
+       top: 3%;
+       font-size: 50px;
+               
+           }
+           .text2{
+               font-size: 30px;
+               width: 80%;
+               word-spacing: 6px;
+
+           }
+       
+           .text3{
+               top: 54%;
+               font-size: 90px;
+           }
+           .month{
+            top: 60%; 
+            left: 35%;
+           }
+           .mySecondSection{
+               
+              display: none;
+              }
+              .circle1{
+               width: 18%;
+               height: 30%;
+               left: 20%;
+              }
+              .rectangle{
+       
+       text-align: center;
+       }
+       .circle1{
+           width: 18%;
+           height: 30%;
+           left: 20%;
+          }
+          .rectangle1{
+   
+  
+            background-color: black;
+            }
+            .rectangle{
+            
+             text-align: center;
+             background-color: white;
+             }  
+       .img_logo{
+       bottom: 35%;  
+       }
+       .recShape1{
+       left: 60%;
+       }
+       .circle2{
+       width: 20%;
+       top: 70%;
+       height: 27%;
+       }
+       .circle3{
+       width: 10%;
+       height: 13%; 
+       top: 80%;  
+       }
+       .fifthsection{
+        
+        position: absolute;
+        width: 90%;
+       
+        left: 9%;
+        top: 290%;
+        }
+        .group8{
+    left: 5%;
+    top: 190px;
+    
+        }
+        #path {
+          
+        left: 10px;
+            width: 50px;
+            height: 50px;
+             
+           
+        } #shape{
+            
+            left: 40px;
+            width: 50px;
+            height: 50px;
+        } 
+        
+        #path1{
+         
+            left: 100px;
+            width: 50px;
+            height: 50px;
+        }
+        .fblur{
+            position: absolute;
+        width: 384px;
+        height: 384px;
+        left: -60px;
+        top: -90px;
+        
+        background: #FF7B40;
+        mix-blend-mode: normal;
+        opacity: 0.15;
+        filter: blur(135.914px);
+        }
+        .sblur{
+            position: absolute;
+            width: 384px;
+            height: 384px;
+            left: 25%;
+        top: 371.5px;
+        
+        background: #FF9201;
+        mix-blend-mode: normal;
+        opacity: 0.15;
+        filter: blur(135.914px);
+        
+        }
+        .tblur{
+        
+            position: absolute;
+            width: 40%;
+            height: 60%;
+            left: 25%;
+            top: 60%;
+            
+            background: #40FFF6;
+            mix-blend-mode: normal;
+            opacity: 0.1;
+            filter: blur(135.914px);
+        }
+        .frtblur{
+            
+        position: absolute;
+        width: 300px;
+        height: 300px;
+        left: 25%;
+        top: 340%;
+        
+        background: #FF7B40;
+        mix-blend-mode: normal;
+        opacity: 0.15;
+        filter: blur(100.914px);
+        
+        }
+    
+    
+    
+    
+        
+       }*/
+/*412*/
+
+/*
+@media  (width:412px){
+    body{
+        background-color: white;
+        width: auto;
+    }
+    .equalizer{
+        font-size: 33px;
+        left: 5%;
+    }
+     .head{
+   font-size: 50px;
+   left: 9%;
+   width: 130vw;
+     }     
+       
+   .msg{
+       width: 95%;
+    
+       font-size: 29px;
+   }
+   
+   .wrapper{
+       top: 115vh;
+       width: 120vw;
+       left: 9%;
+       height: 70%;
+   }
+   .phone{
+       width: 60.2vw;
+       height: 75%;
+       left: 19%;
+       border-bottom-left-radius: 26px;
+      border-bottom-right-radius: 25px;
+   }
+   .equalizer2{
+       left: 9%;
+       top:-20vh;
+       font-size: 40px;
+   }
+   .right{
+       left: 5%;
+       top:5px;
+       width: 100%;
+    font-size: 26px;
+   
+       
+   }
+  
+   .boxContainer{
+       position: absolute;
+       width: 120vw;
+       height: 70%;
+       left: 9%;
+       top: 175.5%;
+       background-color: #FA7453;
+       }
+       .premium{
+   top: 3%;
+   font-size: 50px;
+           
+       }
+       .text2{
+           font-size: 30px;
+           width: 80%;
+           word-spacing: 6px;
+       }
+   
+       .text3{
+           top: 50%;
+           font-size: 90px;
+       }
+       .mySecondSection{
+           
+          display: none;
+          }
+          .circle1{
+           width: 18%;
+           height: 30%;
+           left: 20%;
+          }
+          .rectangle{
+   
+   text-align: center;
+   }
+   .circle1{
+       width: 18%;
+       height: 30%;
+       left: 20%;
+      }
+      .rectangle1{
+   
+  
+        background-color: black;
+        }
+        .rectangle{
+        
+         text-align: center;
+         background-color: white;
+         }
+   .img_logo{
+   bottom: 35%;  
+   }
+   .recShape1{
+   left: 60%;
+   }
+   .circle2{
+   width: 20%;
+   top: 70%;
+   height: 27%;
+   }
+   .circle3{
+   width: 10%;
+   height: 13%; 
+   top: 80%;  
+   }
+   .fifthsection{
+    
+    position: absolute;
+    width: 90%;
+   
+    left: 9%;
+    top: 270%;
+    }
+    .group8{
+left: 5%;
+top: 190px;
+
+    }
+    #path {
+      
+    left: 10px;
+        width: 50px;
+        height: 50px;
+         
+       
+    } #shape{
+        
+        left: 40px;
+        width: 50px;
+        height: 50px;
+    } 
+    
+    #path1{
+     
+        left: 100px;
+        width: 50px;
+        height: 50px;
+    }
+    .fblur{
+        position: absolute;
+    width: 384px;
+    height: 384px;
+    left: -60px;
+    top: -90px;
+    
+    background: #FF7B40;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(135.914px);
+    }
+    .sblur{
+        position: absolute;
+        width: 384px;
+        height: 384px;
+        left: 25%;
+    top: 371.5px;
+    
+    background: #FF9201;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(135.914px);
+    
+    }
+    .tblur{
+    
+        position: absolute;
+        width: 40%;
+        height: 60%;
+        left: 25%;
+        top: 60%;
+        
+        background: #40FFF6;
+        mix-blend-mode: normal;
+        opacity: 0.1;
+        filter: blur(135.914px);
+    }
+    .frtblur{
+        
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    left: 25%;
+    top: 340%;
+    
+    background: #FF7B40;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(100.914px);
+    
+    }
+
+
+
+
+    
+   }*/
+   
+   /*820*/
+
+/*
+
+   @media  (width:820px){
+    body{
+        background-color: white;
+        width: auto;
+    }
+    .equalizer{
+        font-size: 33px;
+    }
+     .head{
+   font-size: 50px;
+   left: 9%;
+   width: 130vw;
+     }     
+       
+   .msg{
+       width: 95%;
+    
+       font-size: 29px;
+   }
+   
+   .wrapper{
+       top: 92vh;
+       width: 120vw;
+       left: 9%;
+   }
+   .phone{
+       width: 60.2vw;
+       left: 19%;
+       border-bottom-left-radius: 26px;
+      border-bottom-right-radius: 25px;
+   }
+   .equalizer2{
+       left: 9%;
+       top:-20vh;
+       font-size: 40px;
+   }
+   .right{
+       left: -10%;
+       top:900vh;
+       width: 100%;
+    font-size: 26px;
+   
+       
+   }
+  
+   .boxContainer{
+       position: absolute;
+       width: 120vw;
+       height: 109%;
+       left: 9%;
+       top: 180.5%;
+       background-color: #FA7453;
+       }
+       .premium{
+   top: 3%;
+   font-size: 50px;
+           
+       }
+       .text2{
+           font-size: 30px;
+           width: 80%;
+           word-spacing: 6px;
+       }
+   
+       .text3{
+           top: 50%;
+           font-size: 90px;
+          
+       }
+       .month{
+        top: 53%; 
+        left: 23%;
+        font-size: 30px;
+       }
+       .mySecondSection{
+           
+          display: none;
+          }
+          .circle1{
+           width: 18%;
+           height: 30%;
+           left: 20%;
+          }
+          .rectangle1{
+   
+  
+            background-color: black;
+            }
+            .rectangle{
+            
+             text-align: center;
+             background-color: white;
+             }
+   .circle1{
+       width: 18%;
+       height: 30%;
+       left: 20%;
+      }
+   .rectangle{
+   text-align: center;    
+   }   
+   .img_logo{
+   bottom: 35%;  
+   }
+   .recShape1{
+   left: 60%;
+   }
+   .circle2{
+   width: 20%;
+   top: 70%;
+   height: 27%;
+   }
+   .circle3{
+   width: 10%;
+   height: 13%; 
+   top: 80%;  
+   }
+   .fifthsection{
+    
+    position: absolute;
+    width: 90%;
+   
+    left: 9%;
+    top: 330%;
+    }
+    .right{
+        left: 5%;
+        top:5px;
+        width: 100%;
+     font-size: 26px;
+    
+        
+    }
+    .group8{
+left: 5%;
+top: 300px;
+
+    }
+    #path {
+      
+    left: 10px;
+        width: 50px;
+        height: 50px;
+         
+       
+    } #shape{
+        
+        left: 40px;
+        width: 50px;
+        height: 50px;
+    } 
+    
+    #path1{
+     
+        left: 100px;
+        width: 50px;
+        height: 50px;
+    }
+    .fblur{
+        position: absolute;
+    width: 384px;
+    height: 384px;
+    left: -60px;
+    top: -90px;
+    
+    background: #FF7B40;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(135.914px);
+    }
+    .sblur{
+        position: absolute;
+        width: 384px;
+        height: 384px;
+        left: 25%;
+    top: 371.5px;
+    
+    background: #FF9201;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(135.914px);
+    
+    }
+    .tblur{
+    
+        position: absolute;
+        width: 40%;
+        height: 60%;
+        left: 25%;
+        top: 60%;
+        
+        background: #40FFF6;
+        mix-blend-mode: normal;
+        opacity: 0.1;
+        filter: blur(135.914px);
+    }
+    .frtblur{
+        
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    left: 25%;
+    top: 340%;
+    
+    background: #FF7B40;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(100.914px);
+    
+    }
+
+
+
+
+    
+   }*/
+   
+   /*768*/
+
+
+   
+/*
+   @media  (width:768px){
+    body{
+        background-color: white;
+        width: auto;
+    }
+    .equalizer{
+        font-size: 33px;
+    }
+     .head{
+   font-size: 50px;
+   left: 9%;
+   width: 80vw;
+     }     
+       
+   .msg{
+       width: 75%;
+    
+       font-size: 29px;
+   }
+   
+   .wrapper{
+       top: 92vh;
+       width: 80vw;
+       left: 9%;
+       height: 65%;
+   }
+   .phone{
+       width: 45.2vw;
+       left: 19%;
+       border-bottom-left-radius: 26px;
+      border-bottom-right-radius: 25px;
+      top: -30%;
+   }
+   .equalizer2{
+       left: 9%;
+       top:-20vh;
+       font-size: 40px;
+   }
+   .right{
+       left: -10%;
+       top:900vh;
+       width: 100%;
+    font-size: 26px;
+   
+       
+   }
+  
+   .boxContainer{
+       position: absolute;
+       width: 80vw;
+       height: 109%;
+       left: 9%;
+       top: 150.5%;
+       background-color: #FA7453;
+       }
+       .premium{
+   top: 3%;
+   font-size: 50px;
+           
+       }
+       .text2{
+           font-size: 30px;
+           width: 80%;
+           word-spacing: 6px;
+       }
+   
+       .text3{
+           top: 50%;
+           font-size: 90px;
+          
+       }
+       .month{
+        top: 53%; 
+        left: 23%;
+        font-size: 30px;
+       }
+       .mySecondSection{
+           
+          display: none;
+          }
+          .circle1{
+           width: 18%;
+           height: 30%;
+           left: 20%;
+          }
+          .rectangle{
+   
+   text-align: center;
+   }
+   .circle1{
+       width: 18%;
+       height: 30%;
+       left: 20%;
+      }
+      .rectangle1{
+   
+  
+        background-color: black;
+        }
+        .rectangle{
+        
+         text-align: center;
+         background-color: white;
+         }  
+   .img_logo{
+   bottom: 35%;  
+   }
+   .recShape1{
+   left: 60%;
+   }
+   .circle2{
+   width: 20%;
+   top: 70%;
+   height: 27%;
+   }
+   .circle3{
+   width: 10%;
+   height: 13%; 
+   top: 80%;  
+   }
+   .fifthsection{
+    
+    position: absolute;
+    width: 90%;
+   
+    left: 9%;
+    top: 310%;
+    }
+    .right{
+        left: 5%;
+        top:5px;
+        width: 100%;
+     font-size: 26px;
+    
+        
+    }
+    .group8{
+left: 5%;
+top: 300px;
+
+    }
+    #path {
+      
+    left: 10px;
+        width: 50px;
+        height: 50px;
+         
+       
+    } #shape{
+        
+        left: 40px;
+        width: 50px;
+        height: 50px;
+    } 
+    
+    #path1{
+     
+        left: 100px;
+        width: 50px;
+        height: 50px;
+    }
+    .fblur{
+        position: absolute;
+    width: 384px;
+    height: 384px;
+    left: -60px;
+    top: -90px;
+    
+    background: #FF7B40;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(135.914px);
+    }
+    .sblur{
+        position: absolute;
+        width: 384px;
+        height: 384px;
+        left: 10%;
+    top: 371.5px;
+    
+    background: #FF9201;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(135.914px);
+    
+    }
+    .tblur{
+    
+        position: absolute;
+        width: 40%;
+        height: 60%;
+        left: 10%;
+        top: 60%;
+        
+        background: #40FFF6;
+        mix-blend-mode: normal;
+        opacity: 0.1;
+        filter: blur(135.914px);
+    }
+    .frtblur{
+        
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    left: 10%;
+    top: 340%;
+    
+    background: #FF7B40;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(100.914px);
+    
+    }
+
+
+
+
+    
+   }*/
+   
+
+   /*1024*/
+/*
+   @media (max-width:1024px) {
+       .mySecondSection{
+           display: none;
+       }
+
+    .text3{
+        top: 50%;
+    }
+       .month{
+        top: 55%;
+        left: 30%;  
+       }
+
+       .head{
+           font-size: 50Px;
+       }
+       .phone{
+           top: -28%;
+       }
+       .rectangle1{
+   
+  
+        background-color: black;
+        }
+        .rectangle{
+        
+         text-align: center;
+         background-color: white;
+         }
+
+ } */
+
+
+   /*1280*/
+/*
+   @media (max-width:1280px) {
+    .mySecondSection{
+        display: none;
+    }
+
+ .text3{
+     top: 50%;
+ }
+    .month{
+     top: 55%;
+     left: 30%;  
+    }
+
+    .head{
+        font-size: 50Px;
+    }
+    .phone{
+        top: -28%;
+    }
+    .rectangle1{
+
+
+     background-color: black;
+     }
+     .rectangle{
+     
+      text-align: center;
+      background-color: white;
+      }
+
+} 
+*/
+/*280*/
+
+/*
+
+@media  (width:280px){
+    body{
+        background-color: white;
+        width: auto;
+    }
+    .equalizer{
+        font-size: 33px;
+        left: 5%;
+    }
+     .head{
+   font-size: 30px;
+   left: 9%;
+   width: 130vw;
+   top: 17%;
+     }     
+       
+   .msg{
+       width: 95%;
+    top: 40%;
+       font-size: 29px;
+   }
+   
+   .wrapper{
+       
+     
+       left: 9%;
+       height: 70%;
+         width: 120vw;
+       top: 130vh;
+   }
+   .phone{
+       width: 60.2vw;
+       height: 85%;
+       left: 19%;
+       top: -30%;
+       border-bottom-left-radius: 26px;
+      border-bottom-right-radius: 25px;
+   }
+   .equalizer2{
+       left: 9%;
+       top:-20vh;
+       font-size: 40px;
+   }
+   .right{
+       left: 5%;
+       top:5px;
+       width: 100%;
+    font-size: 26px;
+   
+       
+   }
+  
+   .boxContainer{
+       position: absolute;
+       height: 87%;
+         width: 120vw;
+       left: 9%;
+       top: 190.5%;
+       background-color: #FA7453;
+       }
+       .premium{
+   top: -5%;
+   font-size: 50px;
+           
+       }
+       .text2{
+           font-size: 20px;
+           width: 80%;
+           word-spacing: 6px;
+           top: 13%;
+       }
+   
+       .text3{
+           top: 55%;
+           font-size: 90px;
+       }
+       .month{
+        top: 60%; 
+        left: 35%;
+       }
+       .mySecondSection{
+           
+          display: none;
+          }
+          .circle1{
+           width: 18%;
+           height: 30%;
+           left: 20%;
+          }
+          .rectangle1{
+   
+  
+   background-color: black;
+   }
+   .rectangle{
+   
+    text-align: center;
+    background-color: white;
+    }
+   .circle1{
+       width: 18%;
+       height: 30%;
+       left: 20%;
+      }
+  
+   .img_logo{
+   bottom: 35%;  
+   }
+   .recShape1{
+   left: 60%;
+   }
+   .circle2{
+   width: 20%;
+   top: 70%;
+   height: 27%;
+   }
+   .circle3{
+   width: 10%;
+   height: 13%; 
+   top: 80%;  
+   }
+   .fifthsection{
+    
+    position: absolute;
+    width: 90%;
+   
+    left: 9%;
+    top: 300%;
+    }
+    .group8{
+left: 5%;
+top: 190px;
+
+    }
+    #path {
+      
+    left: 10px;
+        width: 50px;
+        height: 50px;
+         
+       
+    } #shape{
+        
+        left: 40px;
+        width: 50px;
+        height: 50px;
+    } 
+    
+    #path1{
+     
+        left: 100px;
+        width: 50px;
+        height: 50px;
+    }
+    .fblur{
+        position: absolute;
+    width: 384px;
+    height: 384px;
+    left: -60px;
+    top: -90px;
+    
+    background: #FF7B40;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(135.914px);
+    }
+    .sblur{
+        position: absolute;
+        width: 384px;
+        height: 384px;
+        left: 25%;
+    top: 371.5px;
+    
+    background: #FF9201;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(135.914px);
+    
+    }
+    .tblur{
+    
+        position: absolute;
+        width: 40%;
+        height: 60%;
+        left: 25%;
+        top: 60%;
+        
+        background: #40FFF6;
+        mix-blend-mode: normal;
+        opacity: 0.1;
+        filter: blur(135.914px);
+    }
+    .frtblur{
+        
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    left: 25%;
+    top: 340%;
+    
+    background: #FF7B40;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(100.914px);
+    
+    }
+
+
+
+
+    
+   }
+*/
+
+
+   /*912*/
+
+
+   /*
+   @media  (width:px){
+    body{
+        background-color: white;
+        width: auto;
+    }
+    .equalizer{
+        width: 30px;
+        height: 30%;
+        left: 8%;
+        top: 4%;
+        font-size: 28px;
+        padding-left: 30px;
+        color: #191826;
+        font-size: 34px;
+        font-weight: 800;
+        font-family: 'IBM Plex Sans';
+    }
+     .head{
+        height: 176px;
+        left: 10%;
+        top: 221px;
+       
+    font-family: 'IBM Plex Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 40px;
+   
+    
+    letter-spacing: -1px;
+    
+    color: #191826;
+   width: 30vw;
+     }     
+       
+   .msg{
+       width: 95%;
+    
+       font-size: 29px;
+   }
+   
+   .wrapper{
+    margin-top: 10%;
+    position: absolute;
+    width: 85%;
+    height: 90%;
+    left: 5%;
+    top: 120%;
+    border-radius: 30px;
+background: #191826;
+   }
+   .phone{
+       width: 60.2vw;
+       left: 19%;
+       border-bottom-left-radius: 26px;
+      border-bottom-right-radius: 25px;
+   }
+   .equalizer2{
+       left: 9%;
+       top:-20vh;
+       font-size: 40px;
+   }
+   .right{
+       left: -10%;
+       top:900vh;
+       width: 100%;
+    font-size: 26px;
+   
+       
+   }
+  
+   .boxContainer{
+       position: absolute;
+       width: 120vw;
+       height: 109%;
+       left: 9%;
+       top: 180.5%;
+       background-color: #FA7453;
+       }
+       .premium{
+   top: 3%;
+   font-size: 50px;
+           
+       }
+       .text2{
+           font-size: 30px;
+           width: 80%;
+           word-spacing: 6px;
+       }
+   
+       .text3{
+           top: 50%;
+           font-size: 90px;
+          
+       }
+       .month{
+        top: 53%; 
+        left: 23%;
+        font-size: 30px;
+       }
+      .wrapped-container{
+          display: none;
+      }
+          .circle1{
+           width: 18%;
+           height: 30%;
+           left: 20%;
+          }
+          .rectangle1{
+   
+  
+            background-color: black;
+            }
+            .rectangle{
+            
+             text-align: center;
+             background-color: white;
+             }
+   .circle1{
+       width: 18%;
+       height: 30%;
+       left: 20%;
+      }
+   .rectangle{
+   text-align: center;    
+   }   
+   .img_logo{
+   bottom: 35%;  
+   }
+   .recShape1{
+   left: 60%;
+   }
+   .circle2{
+   width: 20%;
+   top: 70%;
+   height: 27%;
+   }
+   .circle3{
+   width: 10%;
+   height: 13%; 
+   top: 80%;  
+   }
+   .fifthsection{
+    
+    position: absolute;
+    width: 90%;
+   
+    left: 9%;
+    top: 330%;
+    }
+    .right{
+        left: 5%;
+        top:5px;
+        width: 100%;
+     font-size: 26px;
+    
+        
+    }
+    .group8{
+left: 5%;
+top: 300px;
+
+    }
+    #path {
+      
+    left: 10px;
+        width: 50px;
+        height: 50px;
+         
+       
+    } #shape{
+        
+        left: 40px;
+        width: 50px;
+        height: 50px;
+    } 
+    
+    #path1{
+     
+        left: 100px;
+        width: 50px;
+        height: 50px;
+    }
+    .fblur{
+        position: absolute;
+    width: 384px;
+    height: 384px;
+    left: -60px;
+    top: -90px;
+    
+    background: #FF7B40;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(135.914px);
+    }
+    .sblur{
+        position: absolute;
+        width: 384px;
+        height: 384px;
+        left: 25%;
+    top: 371.5px;
+    
+    background: #FF9201;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(135.914px);
+    
+    }
+    .tblur{
+    
+        position: absolute;
+        width: 40%;
+        height: 60%;
+        left: 25%;
+        top: 60%;
+        
+        background: #40FFF6;
+        mix-blend-mode: normal;
+        opacity: 0.1;
+        filter: blur(135.914px);
+    }
+    .frtblur{
+        
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    left: 25%;
+    top: 340%;
+    
+    background: #FF7B40;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(100.914px);
+    
+    }
+
+
+
+
+    
+   }
+   */
+
+
+
+
+   /* for new 912 media querry*/
+
+
+   @media (width:912px) {
+      
+    .Groupcopy{
+   left: 85%;
+    }
+    .equalizer{
+        position: absolute;
+        width: 30%px;
+        height: 30%;
+        left: 8%;
+        top: 4%;
+        font-size: 28px;
+        padding-left: 30px;
+        color: #191826;
+        font-size: 50px;
+        font-weight: 800;
+        font-family: 'IBM Plex Sans';
+        }
+
+    .head{
+        height: 176px;
+        left: 10%;
+        top: 221px;
+       
+    font-family: 'IBM Plex Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 60px;
+   
+    
+    letter-spacing: -1px;
+    
+    color: #191826;
+   width: 50vw;
+     } 
+     .msg{
+        position: absolute;
+width:70%;
+height: 102px;
+left: 10%;
+top: 437px;
+
+
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 34px;
+/* or 170% */
+
+
+color: #191826;
+    }   
+    .wrapper{
+        margin-top: 10%;
+        position: absolute;
+        width: 99%;
+        height: 55%;
+        left: 5%;
+        top: 70%;
+        border-radius: 30px;
+background: #191826;
+    }
+    .circles{
+        padding-left: 40%;
+       
+         }  
+    .phone{
+        position: absolute;
+
+
+left: 7%;
+top: -25%;
+z-index: 2;
+margin-top: 10%;
+
+background-size: 20px;
+border-bottom-left-radius: 26px;
+border-bottom-right-radius: 25px;
+    } 
+    .boxContainer{
+        position: absolute;
+        width:45%;
+        height: 55%;
+        left: 35%;
+        top: 90%;
+        border-radius: 20px;
+        background-color: #FA7453;
+        z-index: 2;
+        }  
+        .rectangle1{
+            position: absolute;
+        width: 80%;
+        height:10%;
+        left: 9%;
+        top: 70%;
+        
+        background: black;
+        border-radius: 12px;
+        }
+        .rectangle{
+            position: absolute;
+            width: 80%;
+            height:10%;
+            left: 9%;
+            top: 85%;
+            
+            background: #Ffff;
+            border-radius: 12px; 
+           
+        }
+        .fifthsection{
+    
+            position: absolute;
+            width: 90%;
+            height: 79px;
+            left: 9%;
+            top: 140%;
+            }
+            .group8{
+                position: absolute;
+                left: 85.99%;
+           
+              top: 200%;
+                bottom: 39.87%;
+            }
+            .equalizer2{
+    
+                position: absolute;
+                width: 146.09px;
+                height: 32px;
+                left: 5%;
+              
+                top: 150%;
+               
+                font-size: 40px;
+                color: #191826;
+                }
+                .right{
+
+                    position: absolute;
+                    left: 5%;
+                    right: 41.35%;
+                    top: 160%;
+                   
+                    width: 30%;
+                    font-family: 'IBM Plex Sans';
+                    font-style: normal;
+                    font-weight: 400;
+                    font-size: 16px;
+                    line-height: 26px;
+                    /* or 162% */
+                    
+                
+                    color: #191826; 
+                    }
+                    .email-text{
+                        color: black;
+                        font-weight: 1000;
+                        font-size: 30px;
+                    }      
+       
+    .fblur{
+        position: absolute;
+    width: 384px;
+    height: 384px;
+    left: -60px;
+    top: -90px;
+    
+    background: #FF7B40;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(135.914px);
+    }
+    .sblur{
+        position: absolute;
+        width: 50px;
+        height: 384px;
+       
+    top: 371.5px;
+    
+    background: #FF9201;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(135.914px);
+    
+    }
+    .tblur{
+    
+        position: absolute;
+        width: 40px;
+        height: 60%;
+       
+        top: 60%;
+        
+        background: #40FFF6;
+        mix-blend-mode: normal;
+        opacity: 0.1;
+        filter: blur(135.914px);
+    }
+    .frtblur{
+        
+    position: absolute;
+    width: 50px;
+    height: 300px;
+  
+    top: 340%;
+    
+    background: #FF7B40;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(100.914px);
+    
+    }
+   }
+
+
+   /*393*/
+
+   
+   @media (width:393px) {
+      
+    .Groupcopy{
+ display: none;
+    }
+    .equalizer{
+        position: absolute;
+        width: 30%px;
+        height: 30%;
+        left: 8%;
+        top: 4%;
+        font-size: 50px;
+        padding-left: 30px;
+        color: #191826;
+        font-size: 60px;
+        font-weight: 800;
+        font-family: 'IBM Plex Sans';
+        }
+
+    .head{
+        height: 176px;
+        left: 10%;
+        top: 243px;
+       
+    font-family: 'IBM Plex Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 60px;
+   
+    
+    letter-spacing: -1px;
+    
+    color: #191826;
+   width: 150vw;
+     } 
+     .msg{
+        position: absolute;
+width:170%;
+height: 102px;
+left: 10%;
+top: 490px;
+
+
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 34px;
+/* or 170% */
+
+
+color: #191826;
+    }   
+    .wrapper{
+        margin-top: 10%;
+        position: absolute;
+        width:230%;
+        height: 90%;
+        left: 12%;
+        top: 125%;
+        border-radius: 30px;
+background: #191826;
+    }
+    .circles{
+        padding-left: 20%;
+        width: 60%;
+       
+         }  
+    .phone{
+        position: absolute;
+
+
+left: 28%;
+top: -37%;
+z-index: 2;
+margin-top: 10%;
+
+background-size: 20px;
+border-bottom-left-radius: 26px;
+border-bottom-right-radius: 25px;
+    } 
+    .boxContainer{
+        margin-top: 10%;
+        position: absolute;
+        width:230%;
+        height: 90%;
+        left: 12%;
+        top: 205%;
+        border-radius: 30px;
+        background-color: #FA7453;
+        z-index: 2;
+        }  
+        .rectangle1{
+            position: absolute;
+        width: 80%;
+        height:10%;
+        left: 9%;
+        top: 70%;
+        
+        background: black;
+        border-radius: 12px;
+        }
+        .rectangle{
+            position: absolute;
+            width: 80%;
+            height:10%;
+            left: 9%;
+            top: 85%;
+            
+            background: #Ffff;
+            border-radius: 12px; 
+           
+        }
+        .fifthsection{
+    
+            top: 330%;
+            }
+            .group8{
+                position: absolute;
+                left: 5.99%;
+           
+              top: 200%;
+                bottom: 39.87%;
+            }
+            .equalizer2{
+    
+                position: absolute;
+                width: 146.09px;
+                height: 32px;
+                left: 12%;
+              
+                top: 310%;
+               
+                font-size: 70px;
+                color: #191826;
+                }
+                .right{
+
+                    position: absolute;
+                    left: 12%;
+                    right: 41.35%;
+                    top: 330%;
+                   
+                    width: 70%;
+                    font-family: 'IBM Plex Sans';
+                    font-style: normal;
+                    font-weight: 400;
+                    font-size: 20px;
+                    line-height: 26px;
+                    /* or 162% */
+                    
+                
+                    color: #191826; 
+                    }
+                    .email-text{
+                        color: black;
+                        font-weight: 1000;
+                        font-size: 30px;
+                    } 
+                    .group8{
+                        position: absolute;
+                        left: 5.99%;
+                   
+                      top: 200%;
+                        bottom: 39.87%;
+                    }    
+                    #path{
+                        left: 30%;
+                        width: 40px;
+                    }
+                    #path1{
+                        
+                        width: 40px;
+                    }
+                    #shape{
+                       width: 40px;       
+                        left: 5%;
+                    }
+                    
+       
+    .fblur{
+        position: absolute;
+    width: 384px;
+    height: 384px;
+    left: -60px;
+    top: -90px;
+    
+    background: #FF7B40;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(135.914px);
+    }
+    .sblur{
+        position: absolute;
+        width: 10px;
+        height: 384px;
+       
+    top: 371.5px;
+    
+    background: #FF9201;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(135.914px);
+    
+    }
+    .tblur{
+    
+        position: absolute;
+        width: 10px;
+        height: 60%;
+       
+        top: 60%;
+        
+        background: #40FFF6;
+        mix-blend-mode: normal;
+        opacity: 0.1;
+        filter: blur(135.914px);
+    }
+    .frtblur{
+        
+    position: absolute;
+    width: 50px;
+    height: 300px;
+  
+    top: 340%;
+    
+    background: #FF7B40;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(100.914px);
+    
+    }
+   }
+
+
+   /*390*/
+
+   
+   
+   @media (width:390px) {
+      
+    .Groupcopy{
+ display: none;
+    }
+    .equalizer{
+        position: absolute;
+        width: 30%px;
+        height: 30%;
+        left: 8%;
+        top: 4%;
+        font-size: 50px;
+        padding-left: 30px;
+        color: #191826;
+        font-size: 60px;
+        font-weight: 800;
+        font-family: 'IBM Plex Sans';
+        }
+
+    .head{
+        height: 176px;
+        left: 10%;
+        top: 221px;
+       
+    font-family: 'IBM Plex Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 60px;
+   
+    
+    letter-spacing: -1px;
+    
+    color: #191826;
+   width: 150vw;
+     } 
+     .msg{
+        position: absolute;
+width:170%;
+height: 102px;
+left: 10%;
+top: 467px;
+
+
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 34px;
+/* or 170% */
+
+
+color: #191826;
+    }   
+    .wrapper{
+        margin-top: 10%;
+        position: absolute;
+        width:200%;
+        height: 90%;
+        left: 5%;
+        top: 125%;
+        border-radius: 30px;
+background: #191826;
+    }
+    .circles{
+        padding-left: 20%;
+        width: 60%;
+       
+         }  
+    .phone{
+        position: absolute;
+
+
+left: 28%;
+top: -37%;
+z-index: 2;
+margin-top: 10%;
+
+background-size: 20px;
+border-bottom-left-radius: 26px;
+border-bottom-right-radius: 25px;
+    } 
+    .boxContainer{
+        margin-top: 10%;
+        position: absolute;
+        width:200%;
+        height: 90%;
+        left: 5%;
+        top: 205%;
+        border-radius: 30px;
+        background-color: #FA7453;
+        z-index: 2;
+        }  
+        .rectangle1{
+            position: absolute;
+        width: 80%;
+        height:10%;
+        left: 9%;
+        top: 70%;
+        
+        background: black;
+        border-radius: 12px;
+        }
+        .rectangle{
+            position: absolute;
+            width: 80%;
+            height:10%;
+            left: 9%;
+            top: 85%;
+            
+            background: #Ffff;
+            border-radius: 12px; 
+           
+        }
+        .fifthsection{
+    
+            top: 330%;
+            }
+            .group8{
+                position: absolute;
+                left: 5.99%;
+           
+              top: 200%;
+                bottom: 39.87%;
+            }
+            .equalizer2{
+    
+                position: absolute;
+                width: 146.09px;
+                height: 32px;
+                left: 5%;
+              
+                top: 310%;
+               
+                font-size: 70px;
+                color: #191826;
+                }
+                .right{
+
+                    position: absolute;
+                    left: 5%;
+                    right: 41.35%;
+                    top: 330%;
+                   
+                    width: 70%;
+                    font-family: 'IBM Plex Sans';
+                    font-style: normal;
+                    font-weight: 400;
+                    font-size: 20px;
+                    line-height: 26px;
+                    /* or 162% */
+                    
+                
+                    color: #191826; 
+                    }
+                    .email-text{
+                        color: black;
+                        font-weight: 1000;
+                        font-size: 30px;
+                    } 
+                    .group8{
+                        position: absolute;
+                        left: 5.99%;
+                   
+                      top: 200%;
+                        bottom: 39.87%;
+                    }    
+                    #path{
+                        left: 30%;
+                        width: 40px;
+                    }
+                    #path1{
+                        
+                        width: 40px;
+                    }
+                    #shape{
+                       width: 40px;       
+                        left: 5%;
+                    }
+                    
+       
+    .fblur{
+        position: absolute;
+    width: 384px;
+    height: 384px;
+    left: -60px;
+    top: -90px;
+    
+    background: #FF7B40;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(135.914px);
+    }
+    .sblur{
+        position: absolute;
+        width: 10px;
+        height: 384px;
+       
+    top: 371.5px;
+    
+    background: #FF9201;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(135.914px);
+    
+    }
+    .tblur{
+    
+        position: absolute;
+        width: 10px;
+        height: 60%;
+       
+        top: 60%;
+        
+        background: #40FFF6;
+        mix-blend-mode: normal;
+        opacity: 0.1;
+        filter: blur(135.914px);
+    }
+    .frtblur{
+        
+    position: absolute;
+    width: 50px;
+    height: 300px;
+  
+    top: 340%;
+    
+    background: #FF7B40;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(100.914px);
+    
+    }
+   }
+
+
+   /*375*/
+
+     
+   
+   @media (width:375px) {
+      
+    .Groupcopy{
+ display: none;
+    }
+    .equalizer{
+        position: absolute;
+        width: 30%px;
+        height: 30%;
+        left: 5%;
+        top: -7%;
+        font-size: 65px;
+        padding-left: 30px;
+        color: #191826;
+        font-size: 100px;
+        font-weight: 800;
+        font-family: 'IBM Plex Sans';
+        }
+
+    .head{
+        height: 176px;
+        left: 10%;
+        top: 221px;
+       
+    font-family: 'IBM Plex Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 60px;
+   
+    
+    letter-spacing: -1px;
+    
+    color: #191826;
+   width: 150vw;
+     } 
+     .msg{
+        position: absolute;
+width:170%;
+height: 102px;
+left: 10%;
+top: 440px;
+
+
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 34px;
+/* or 170% */
+
+
+color: #191826;
+    }   
+    .wrapper{
+        margin-top: 10%;
+        position: absolute;
+        width:200%;
+        height: 90%;
+        left: 20%;
+        top: 125%;
+        border-radius: 30px;
+background: #191826;
+    }
+    .circles{
+        padding-left: 20%;
+        width: 60%;
+       
+         }  
+    .phone{
+        position: absolute;
+
+
+left: 28%;
+top: -37%;
+z-index: 2;
+margin-top: 10%;
+
+background-size: 20px;
+border-bottom-left-radius: 26px;
+border-bottom-right-radius: 25px;
+    } 
+    .boxContainer{
+        margin-top: 10%;
+        position: absolute;
+        width:200%;
+        height: 90%;
+        left: 20%;
+        top: 205%;
+        border-radius: 30px;
+        background-color: #FA7453;
+        z-index: 2;
+        }  
+        .rectangle1{
+            position: absolute;
+        width: 80%;
+        height:10%;
+        left: 9%;
+        top: 70%;
+        
+        background: black;
+        border-radius: 12px;
+        }
+        .rectangle{
+            position: absolute;
+            width: 80%;
+            height:10%;
+            left: 9%;
+            top: 85%;
+            
+            background: #Ffff;
+            border-radius: 12px; 
+           
+        }
+        .fifthsection{
+    
+            top: 330%;
+            }
+            .group8{
+                position: absolute;
+                left: 5.99%;
+           
+              top: 200%;
+                bottom: 39.87%;
+            }
+            .equalizer2{
+    
+                position: absolute;
+                width: 146.09px;
+                height: 32px;
+                left: 15%;
+              
+                top: 310%;
+               
+                font-size: 70px;
+                color: #191826;
+                }
+                .right{
+
+                    position: absolute;
+                    left: 15%;
+                    right: 41.35%;
+                    top: 330%;
+                   
+                    width: 70%;
+                    font-family: 'IBM Plex Sans';
+                    font-style: normal;
+                    font-weight: 400;
+                    font-size: 20px;
+                    line-height: 26px;
+                    /* or 162% */
+                    
+                
+                    color: #191826; 
+                    }
+                    .email-text{
+                        color: black;
+                        font-weight: 1000;
+                        font-size: 30px;
+                    } 
+                    .group8{
+                        position: absolute;
+                        left: 5.99%;
+                   
+                      top: 200%;
+                        bottom: 39.87%;
+                    }    
+                    #path{
+                        left: 30%;
+                        width: 40px;
+                    }
+                    #path1{
+                        
+                        width: 40px;
+                    }
+                    #shape{
+                       width: 40px;       
+                        left: 5%;
+                    }
+                    
+       
+    .fblur{
+        position: absolute;
+    width: 384px;
+    height: 384px;
+    left: -60px;
+    top: -90px;
+    
+    background: #FF7B40;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(135.914px);
+    }
+    .sblur{
+        position: absolute;
+        width: 10px;
+        height: 384px;
+       
+    top: 371.5px;
+    
+    background: #FF9201;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(135.914px);
+    
+    }
+    .tblur{
+    
+        position: absolute;
+        width: 10px;
+        height: 60%;
+       
+        top: 60%;
+        
+        background: #40FFF6;
+        mix-blend-mode: normal;
+        opacity: 0.1;
+        filter: blur(135.914px);
+    }
+    .frtblur{
+        
+    position: absolute;
+    width: 50px;
+    height: 300px;
+  
+    top: 340%;
+    
+    background: #FF7B40;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(100.914px);
+    
+    }
+   }
+
+
+   /*480*/
+
+   
+   @media (width:480px) {
+      
+    .Groupcopy{
+ display: none;
+    }
+    .equalizer{
+        position: absolute;
+        width: 30%px;
+        height: 30%;
+        left: 8%;
+        top: 4%;
+        font-size: 50px;
+        padding-left: 30px;
+        color: #191826;
+        font-size: 80px;
+        font-weight: 800;
+        font-family: 'IBM Plex Sans';
+        }
+
+    .head{
+        height: 176px;
+        left: 10%;
+        top: 240px;
+       
+    font-family: 'IBM Plex Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 60px;
+   
+    
+    letter-spacing: -1px;
+    
+    color: #191826;
+   width: 170vw;
+     } 
+     .msg{
+        position: absolute;
+width:170%;
+height: 102px;
+left: 10%;
+top: 500px;
+
+
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 34px;
+/* or 170% */
+
+
+color: #191826;
+    }   
+    .wrapper{
+        margin-top: 10%;
+        position: absolute;
+        width:180%;
+        height: 90%;
+        left: 12%;
+        top: 110%;
+        border-radius: 30px;
+background: #191826;
+    }
+    .circles{
+        padding-left: 20%;
+        width: 60%;
+       
+         }  
+    .phone{
+        position: absolute;
+
+
+left: 28%;
+top: -37%;
+z-index: 2;
+margin-top: 10%;
+height: 100%;
+background-size: 20px;
+border-bottom-left-radius: 26px;
+border-bottom-right-radius: 25px;
+    } 
+    .boxContainer{
+        margin-top: 10%;
+        position: absolute;
+        width:180%;
+        height: 90%;
+        left: 12%;
+        top: 180%;
+        border-radius: 30px;
+        background-color: #FA7453;
+        z-index: 2;
+        }  
+        .rectangle1{
+            position: absolute;
+        width: 80%;
+        height:10%;
+        left: 9%;
+        top: 70%;
+        
+        background: black;
+        border-radius: 12px;
+        }
+        .rectangle{
+            position: absolute;
+            width: 80%;
+            height:10%;
+            left: 9%;
+            top: 85%;
+            
+            background: #Ffff;
+            border-radius: 12px; 
+           
+        }
+        .fifthsection{
+    
+            top: 320%;
+            }
+            .group8{
+                position: absolute;
+                left: 5.99%;
+           
+              top: 190%;
+                bottom: 39.87%;
+            }
+            .equalizer2{
+    
+                position: absolute;
+                width: 146.09px;
+                height: 32px;
+                left: 5%;
+              
+                top: 290%;
+               
+                font-size: 70px;
+                color: #191826;
+                }
+                .right{
+
+                    position: absolute;
+                    left: 5%;
+                    right: 41.35%;
+                    top: 315%;
+                   
+                    width: 70%;
+                    font-family: 'IBM Plex Sans';
+                    font-style: normal;
+                    font-weight: 400;
+                    font-size: 20px;
+                    line-height: 26px;
+                    /* or 162% */
+                    
+                
+                    color: #191826; 
+                    }
+                    .email-text{
+                        color: black;
+                        font-weight: 1000;
+                        font-size: 30px;
+                    } 
+                    .group8{
+                        position: absolute;
+                        left: 5.99%;
+                   
+                      top: 200%;
+                        bottom: 39.87%;
+                    }    
+                    #path{
+                        left: 30%;
+                        width: 40px;
+                    }
+                    #path1{
+                        
+                        width: 40px;
+                    }
+                    #shape{
+                       width: 40px;       
+                        left: 5%;
+                    }
+                    
+       
+    .fblur{
+        position: absolute;
+    width: 384px;
+    height: 384px;
+    left: -60px;
+    top: -90px;
+    
+    background: #FF7B40;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(135.914px);
+    }
+    .sblur{
+        position: absolute;
+        width: 10px;
+        height: 384px;
+       
+    top: 371.5px;
+    
+    background: #FF9201;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(135.914px);
+    
+    }
+    .tblur{
+    
+        position: absolute;
+        width: 10px;
+        height: 60%;
+       
+        top: 60%;
+        
+        background: #40FFF6;
+        mix-blend-mode: normal;
+        opacity: 0.1;
+        filter: blur(135.914px);
+    }
+    .frtblur{
+        
+    position: absolute;
+    width: 50px;
+    height: 300px;
+  
+    top: 340%;
+    
+    background: #FF7B40;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(100.914px);
+    
+    }
+   }
+
+
+   /*390*/
+
+   
+   
+   @media (width:390px) {
+      
+    .Groupcopy{
+ display: none;
+    }
+    .equalizer{
+        position: absolute;
+        width: 30%px;
+        height: 30%;
+        left: 5%;
+        top: 4%;
+       
+        padding-left: 30px;
+        color: #191826;
+        font-size: 70px;
+        font-weight: 800;
+        font-family: 'IBM Plex Sans';
+        }
+
+    .head{
+        height: 176px;
+        left: 10%;
+        top: 221px;
+       
+    font-family: 'IBM Plex Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 80px;
+   
+    
+    letter-spacing: -1px;
+    
+    color: #191826;
+   width: 150vw;
+     } 
+     .msg{
+        position: absolute;
+width:170%;
+height: 102px;
+left: 10%;
+top: 530px;
+
+
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 34px;
+/* or 170% */
+
+
+color: #191826;
+    }   
+    .wrapper{
+        margin-top: 10%;
+        position: absolute;
+        width:240%;
+        height: 90%;
+        left: 12%;
+        top: 125%;
+        border-radius: 30px;
+background: #191826;
+    }
+    .circles{
+        padding-left: 20%;
+        width: 60%;
+       
+         }  
+    .phone{
+        position: absolute;
+
+
+left: 20%;
+top: -37%;
+z-index: 2;
+margin-top: 10%;
+width: 50%;
+background-size: 20px;
+border-bottom-left-radius: 26px;
+border-bottom-right-radius: 25px;
+    } 
+    .boxContainer{
+        margin-top: 10%;
+        position: absolute;
+        width:240%;
+        height: 90%;
+        left: 12%;
+        top: 205%;
+        border-radius: 30px;
+        background-color: #FA7453;
+        z-index: 2;
+        }  
+        .rectangle1{
+            position: absolute;
+        width: 80%;
+        height:10%;
+        left: 9%;
+        top: 70%;
+        
+        background: black;
+        border-radius: 12px;
+        }
+        .rectangle{
+            position: absolute;
+            width: 80%;
+            height:10%;
+            left: 9%;
+            top: 85%;
+            
+            background: #Ffff;
+            border-radius: 12px; 
+           
+        }
+        .fifthsection{
+    
+            top: 330%;
+            }
+            .group8{
+                position: absolute;
+                left: 5.99%;
+           
+              top: 200%;
+                bottom: 39.87%;
+            }
+            .equalizer2{
+    
+                position: absolute;
+                width: 146.09px;
+                height: 32px;
+                left: 5%;
+              
+                top: 310%;
+               
+                font-size: 70px;
+                color: #191826;
+                }
+                .right{
+
+                    position: absolute;
+                    left: 5%;
+                    right: 41.35%;
+                    top: 330%;
+                   
+                    width: 70%;
+                    font-family: 'IBM Plex Sans';
+                    font-style: normal;
+                    font-weight: 400;
+                    font-size: 20px;
+                    line-height: 26px;
+                    /* or 162% */
+                    
+                
+                    color: #191826; 
+                    }
+                    .email-text{
+                        color: black;
+                        font-weight: 1000;
+                        font-size: 30px;
+                    } 
+                    .group8{
+                        position: absolute;
+                        left: 5.99%;
+                   
+                      top: 200%;
+                        bottom: 39.87%;
+                    }    
+                    #path{
+                        left: 30%;
+                        width: 40px;
+                    }
+                    #path1{
+                        
+                        width: 40px;
+                    }
+                    #shape{
+                       width: 40px;       
+                        left: 5%;
+                    }
+                    
+       
+    .fblur{
+        position: absolute;
+    width: 384px;
+    height: 384px;
+    left: -60px;
+    top: -90px;
+    
+    background: #FF7B40;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(135.914px);
+    }
+    .sblur{
+        position: absolute;
+        width: 10px;
+        height: 384px;
+       
+    top: 371.5px;
+    
+    background: #FF9201;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(135.914px);
+    
+    }
+    .tblur{
+    
+        position: absolute;
+        width: 10px;
+        height: 60%;
+       
+        top: 60%;
+        
+        background: #40FFF6;
+        mix-blend-mode: normal;
+        opacity: 0.1;
+        filter: blur(135.914px);
+    }
+    .frtblur{
+        
+    position: absolute;
+    width: 50px;
+    height: 300px;
+  
+    top: 340%;
+    
+    background: #FF7B40;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(100.914px);
+    
+    }
+   }
+
+
+/*414*/
+
+
+@media (width:414px) {
+      
+    .Groupcopy{
+ display: none;
+    }
+    .equalizer{
+        position: absolute;
+        width: 30%px;
+        height: 30%;
+        left: 8%;
+        top: 4%;
+        font-size: 50px;
+        padding-left: 30px;
+        color: #191826;
+        font-size: 70px;
+        font-weight: 800;
+        font-family: 'IBM Plex Sans';
+        }
+
+    .head{
+        height: 176px;
+        left: 10%;
+        top: 250px;
+       
+    font-family: 'IBM Plex Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 60px;
+   
+    
+    letter-spacing: -1px;
+    
+    color: #191826;
+   width: 150vw;
+     } 
+     .msg{
+        position: absolute;
+width:170%;
+height: 102px;
+left: 10%;
+top: 550px;
+
+
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 34px;
+/* or 170% */
+
+
+color: #191826;
+    }   
+    .wrapper{
+        margin-top: 10%;
+        position: absolute;
+        width:230%;
+        height: 90%;
+        left: 12%;
+        top: 125%;
+        border-radius: 30px;
+background: #191826;
+    }
+    .circles{
+        padding-left: 20%;
+        width: 60%;
+       
+         }  
+    .phone{
+        position: absolute;
+
+
+left: 20%;
+top: -37%;
+z-index: 2;
+margin-top: 10%;
+width: 47%;
+background-size: 20px;
+border-bottom-left-radius: 26px;
+border-bottom-right-radius: 25px;
+    } 
+    .boxContainer{
+        margin-top: 10%;
+        position: absolute;
+        width:230%;
+        height: 90%;
+        left: 12%;
+        top: 205%;
+        border-radius: 30px;
+        background-color: #FA7453;
+        z-index: 2;
+        }  
+        .rectangle1{
+            position: absolute;
+        width: 80%;
+        height:10%;
+        left: 9%;
+        top: 70%;
+        
+        background: black;
+        border-radius: 12px;
+        }
+        .rectangle{
+            position: absolute;
+            width: 80%;
+            height:10%;
+            left: 9%;
+            top: 85%;
+            
+            background: #Ffff;
+            border-radius: 12px; 
+           
+        }
+        .fifthsection{
+    
+            top: 330%;
+            }
+            .group8{
+                position: absolute;
+                left: 5.99%;
+           
+              top: 200%;
+                bottom: 39.87%;
+            }
+            .equalizer2{
+    
+                position: absolute;
+                width: 146.09px;
+                height: 32px;
+                left: 12%;
+              
+                top: 310%;
+               
+                font-size: 70px;
+                color: #191826;
+                }
+                .right{
+
+                    position: absolute;
+                    left: 12%;
+                    right: 41.35%;
+                    top: 330%;
+                   
+                    width: 70%;
+                    font-family: 'IBM Plex Sans';
+                    font-style: normal;
+                    font-weight: 400;
+                    font-size: 20px;
+                    line-height: 26px;
+                    /* or 162% */
+                    
+                
+                    color: #191826; 
+                    }
+                    .email-text{
+                        color: black;
+                        font-weight: 1000;
+                        font-size: 30px;
+                    } 
+                    .group8{
+                        position: absolute;
+                        left: 5.99%;
+                   
+                      top: 200%;
+                        bottom: 39.87%;
+                    }    
+                    #path{
+                        left: 30%;
+                        width: 40px;
+                    }
+                    #path1{
+                        
+                        width: 40px;
+                    }
+                    #shape{
+                       width: 40px;       
+                        left: 5%;
+                    }
+                    
+       
+    .fblur{
+        position: absolute;
+    width: 384px;
+    height: 384px;
+    left: -60px;
+    top: -90px;
+    
+    background: #FF7B40;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(135.914px);
+    }
+    .sblur{
+        position: absolute;
+        width: 10px;
+        height: 384px;
+       
+    top: 371.5px;
+    
+    background: #FF9201;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(135.914px);
+    
+    }
+    .tblur{
+    
+        position: absolute;
+        width: 10px;
+        height: 60%;
+       
+        top: 60%;
+        
+        background: #40FFF6;
+        mix-blend-mode: normal;
+        opacity: 0.1;
+        filter: blur(135.914px);
+    }
+    .frtblur{
+        
+    position: absolute;
+    width: 50px;
+    height: 300px;
+  
+    top: 340%;
+    
+    background: #FF7B40;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(100.914px);
+    
+    }
+   }
+
+   /*360*/
+
+
+    
+   @media (width:360px) {
+      
+    .Groupcopy{
+ display: none;
+    }
+    .equalizer{
+        position: absolute;
+        width: 30%px;
+        height: 30%;
+        left: 18%;
+        top: 4%;
+       
+        padding-left: 30px;
+        color: #191826;
+        font-size: 70px;
+        font-weight: 800;
+        font-family: 'IBM Plex Sans';
+        }
+
+    .head{
+        height: 176px;
+        left: 25%;
+        top: 221px;
+       
+    font-family: 'IBM Plex Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 80px;
+   
+    
+    letter-spacing: -1px;
+    
+    color: #191826;
+   width: 150vw;
+     } 
+     .msg{
+        position: absolute;
+width:170%;
+height: 102px;
+left: 25%;
+top: 530px;
+
+
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 34px;
+/* or 170% */
+
+
+color: #191826;
+    }   
+    .wrapper{
+        margin-top: 10%;
+        position: absolute;
+        width:240%;
+        height: 90%;
+        left: 30%;
+        top: 125%;
+        border-radius: 30px;
+background: #191826;
+    }
+    .circles{
+        padding-left: 20%;
+        width: 60%;
+       
+         }  
+    .phone{
+        position: absolute;
+
+
+left: 20%;
+top: -37%;
+z-index: 2;
+margin-top: 10%;
+width: 50%;
+background-size: 20px;
+border-bottom-left-radius: 26px;
+border-bottom-right-radius: 25px;
+    } 
+    .boxContainer{
+        margin-top: 10%;
+        position: absolute;
+        width:240%;
+        height: 90%;
+        left: 30%;
+        top: 205%;
+        border-radius: 30px;
+        background-color: #FA7453;
+        z-index: 2;
+        }  
+        .rectangle1{
+            position: absolute;
+        width: 80%;
+        height:10%;
+        left: 9%;
+        top: 70%;
+        
+        background: black;
+        border-radius: 12px;
+        }
+        .rectangle{
+            position: absolute;
+            width: 80%;
+            height:10%;
+            left: 9%;
+            top: 85%;
+            
+            background: #Ffff;
+            border-radius: 12px; 
+           
+        }
+        .fifthsection{
+    
+            top: 330%;
+            }
+            .group8{
+                position: absolute;
+                left: 10.99%;
+           
+              top: 200%;
+                bottom: 39.87%;
+            }
+            .equalizer2{
+    
+                position: absolute;
+                width: 146.09px;
+                height: 32px;
+                left: 17%;
+              
+                top: 310%;
+               
+                font-size: 70px;
+                color: #191826;
+                }
+                .right{
+
+                    position: absolute;
+                    left: 17%;
+                    right: 41.35%;
+                    top: 330%;
+                   
+                    width: 70%;
+                    font-family: 'IBM Plex Sans';
+                    font-style: normal;
+                    font-weight: 400;
+                    font-size: 20px;
+                    line-height: 26px;
+                    /* or 162% */
+                    
+                
+                    color: #191826; 
+                    }
+                    .email-text{
+                        color: black;
+                        font-weight: 1000;
+                        font-size: 30px;
+                    } 
+                    .group8{
+                        position: absolute;
+                        left: 5.99%;
+                   
+                      top: 200%;
+                        bottom: 39.87%;
+                    }    
+                    #path{
+                        left: 30%;
+                        width: 40px;
+                    }
+                    #path1{
+                        
+                        width: 40px;
+                    }
+                    #shape{
+                       width: 40px;       
+                        left: 5%;
+                    }
+                    
+       
+    .fblur{
+        position: absolute;
+    width: 384px;
+    height: 384px;
+    left: -60px;
+    top: -90px;
+    
+    background: #FF7B40;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(135.914px);
+    }
+    .sblur{
+        position: absolute;
+        width: 10px;
+        height: 384px;
+       
+    top: 371.5px;
+    
+    background: #FF9201;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(135.914px);
+    
+    }
+    .tblur{
+    
+        position: absolute;
+        width: 10px;
+        height: 60%;
+       
+        top: 60%;
+        
+        background: #40FFF6;
+        mix-blend-mode: normal;
+        opacity: 0.1;
+        filter: blur(135.914px);
+    }
+    .frtblur{
+        
+    position: absolute;
+    width: 50px;
+    height: 300px;
+  
+    top: 340%;
+    
+    background: #FF7B40;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(100.914px);
+    
+    }
+   }
+
+
+   /*412*/
+
+
+   
+@media (width:412px) {
+      
+    .Groupcopy{
+ display: none;
+    }
+    .equalizer{
+        position: absolute;
+        width: 30%px;
+        height: 30%;
+        left: 8%;
+        top: 4%;
+        font-size: 50px;
+        padding-left: 30px;
+        color: #191826;
+        font-size: 70px;
+        font-weight: 800;
+        font-family: 'IBM Plex Sans';
+        }
+
+    .head{
+        height: 176px;
+        left: 10%;
+        top: 250px;
+       
+    font-family: 'IBM Plex Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 60px;
+   
+    
+    letter-spacing: -1px;
+    
+    color: #191826;
+   width: 150vw;
+     } 
+     .msg{
+        position: absolute;
+width:170%;
+height: 102px;
+left: 10%;
+top: 550px;
+
+
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 34px;
+/* or 170% */
+
+
+color: #191826;
+    }   
+    .wrapper{
+        margin-top: 10%;
+        position: absolute;
+        width:230%;
+        height: 90%;
+        left: 12%;
+        top: 125%;
+        border-radius: 30px;
+background: #191826;
+    }
+    .circles{
+        padding-left: 20%;
+        width: 60%;
+       
+         }  
+    .phone{
+        position: absolute;
+
+
+left: 20%;
+top: -37%;
+z-index: 2;
+margin-top: 10%;
+width: 47%;
+background-size: 20px;
+border-bottom-left-radius: 26px;
+border-bottom-right-radius: 25px;
+    } 
+    .boxContainer{
+        margin-top: 10%;
+        position: absolute;
+        width:230%;
+        height: 90%;
+        left: 12%;
+        top: 205%;
+        border-radius: 30px;
+        background-color: #FA7453;
+        z-index: 2;
+        }  
+        .rectangle1{
+            position: absolute;
+        width: 80%;
+        height:10%;
+        left: 9%;
+        top: 70%;
+        
+        background: black;
+        border-radius: 12px;
+        }
+        .rectangle{
+            position: absolute;
+            width: 80%;
+            height:10%;
+            left: 9%;
+            top: 85%;
+            
+            background: #Ffff;
+            border-radius: 12px; 
+           
+        }
+        .fifthsection{
+    
+            top: 330%;
+            }
+            .group8{
+                position: absolute;
+                left: 5.99%;
+           
+              top: 200%;
+                bottom: 39.87%;
+            }
+            .equalizer2{
+    
+                position: absolute;
+                width: 146.09px;
+                height: 32px;
+                left: 12%;
+              
+                top: 310%;
+               
+                font-size: 70px;
+                color: #191826;
+                }
+                .right{
+
+                    position: absolute;
+                    left: 12%;
+                    right: 41.35%;
+                    top: 330%;
+                   
+                    width: 70%;
+                    font-family: 'IBM Plex Sans';
+                    font-style: normal;
+                    font-weight: 400;
+                    font-size: 20px;
+                    line-height: 26px;
+                    /* or 162% */
+                    
+                
+                    color: #191826; 
+                    }
+                    .email-text{
+                        color: black;
+                        font-weight: 1000;
+                        font-size: 30px;
+                    } 
+                    .group8{
+                        position: absolute;
+                        left: 5.99%;
+                   
+                      top: 200%;
+                        bottom: 39.87%;
+                    }    
+                    #path{
+                        left: 30%;
+                        width: 40px;
+                    }
+                    #path1{
+                        
+                        width: 40px;
+                    }
+                    #shape{
+                       width: 40px;       
+                        left: 5%;
+                    }
+                    
+       
+    .fblur{
+        position: absolute;
+    width: 384px;
+    height: 384px;
+    left: -60px;
+    top: -90px;
+    
+    background: #FF7B40;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(135.914px);
+    }
+    .sblur{
+        position: absolute;
+        width: 10px;
+        height: 384px;
+       
+    top: 371.5px;
+    
+    background: #FF9201;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(135.914px);
+    
+    }
+    .tblur{
+    
+        position: absolute;
+        width: 10px;
+        height: 60%;
+       
+        top: 60%;
+        
+        background: #40FFF6;
+        mix-blend-mode: normal;
+        opacity: 0.1;
+        filter: blur(135.914px);
+    }
+    .frtblur{
+        
+    position: absolute;
+    width: 50px;
+    height: 300px;
+  
+    top: 340%;
+    
+    background: #FF7B40;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(100.914px);
+    
+    }
+   }
+
+   /*360*/
+
+
+    
+   @media (width:360px) {
+      
+    .Groupcopy{
+ display: none;
+    }
+    .equalizer{
+        position: absolute;
+        width: 30%px;
+        height: 30%;
+        left: 18%;
+        top: 4%;
+       
+        padding-left: 30px;
+        color: #191826;
+        font-size: 70px;
+        font-weight: 800;
+        font-family: 'IBM Plex Sans';
+        }
+
+    .head{
+        height: 176px;
+        left: 25%;
+        top: 221px;
+       
+    font-family: 'IBM Plex Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 80px;
+   
+    
+    letter-spacing: -1px;
+    
+    color: #191826;
+   width: 150vw;
+     } 
+     .msg{
+        position: absolute;
+width:170%;
+height: 102px;
+left: 25%;
+top: 530px;
+
+
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 34px;
+/* or 170% */
+
+
+color: #191826;
+    }   
+    .wrapper{
+        margin-top: 10%;
+        position: absolute;
+        width:240%;
+        height: 90%;
+        left: 30%;
+        top: 125%;
+        border-radius: 30px;
+background: #191826;
+    }
+    .circles{
+        padding-left: 20%;
+        width: 60%;
+       
+         }  
+    .phone{
+        position: absolute;
+
+
+left: 20%;
+top: -37%;
+z-index: 2;
+margin-top: 10%;
+width: 42%;
+height: 90%;
+border-bottom-left-radius: 26px;
+border-bottom-right-radius: 25px;
+    } 
+    .boxContainer{
+        margin-top: 10%;
+        position: absolute;
+        width:240%;
+        height: 90%;
+        left: 30%;
+        top: 205%;
+        border-radius: 30px;
+        background-color: #FA7453;
+        z-index: 2;
+        }  
+        .rectangle1{
+            position: absolute;
+        width: 80%;
+        height:10%;
+        left: 9%;
+        top: 70%;
+        
+        background: black;
+        border-radius: 12px;
+        }
+        .rectangle{
+            position: absolute;
+            width: 80%;
+            height:10%;
+            left: 9%;
+            top: 85%;
+            
+            background: #Ffff;
+            border-radius: 12px; 
+           
+        }
+        .fifthsection{
+    
+            top: 330%;
+            }
+            .group8{
+                position: absolute;
+                left: 10.99%;
+           
+              top: 200%;
+                bottom: 39.87%;
+            }
+            .equalizer2{
+    
+                position: absolute;
+                width: 146.09px;
+                height: 32px;
+                left: 17%;
+              
+                top: 310%;
+               
+                font-size: 70px;
+                color: #191826;
+                }
+                .right{
+
+                    position: absolute;
+                    left: 17%;
+                    right: 41.35%;
+                    top: 330%;
+                   
+                    width: 70%;
+                    font-family: 'IBM Plex Sans';
+                    font-style: normal;
+                    font-weight: 400;
+                    font-size: 20px;
+                    line-height: 26px;
+                    /* or 162% */
+                    
+                
+                    color: #191826; 
+                    }
+                    .email-text{
+                        color: black;
+                        font-weight: 1000;
+                        font-size: 30px;
+                    } 
+                    .group8{
+                        position: absolute;
+                        left: 5.99%;
+                   
+                      top: 200%;
+                        bottom: 39.87%;
+                    }    
+                    #path{
+                        left: 30%;
+                        width: 40px;
+                    }
+                    #path1{
+                        
+                        width: 40px;
+                    }
+                    #shape{
+                       width: 40px;       
+                        left: 5%;
+                    }
+                    
+       
+    .fblur{
+        position: absolute;
+    width: 384px;
+    height: 384px;
+    left: -60px;
+    top: -90px;
+    
+    background: #FF7B40;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(135.914px);
+    }
+    .sblur{
+        position: absolute;
+        width: 10px;
+        height: 384px;
+       
+    top: 371.5px;
+    
+    background: #FF9201;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(135.914px);
+    
+    }
+    .tblur{
+    
+        position: absolute;
+        width: 10px;
+        height: 60%;
+       
+        top: 60%;
+        
+        background: #40FFF6;
+        mix-blend-mode: normal;
+        opacity: 0.1;
+        filter: blur(135.914px);
+    }
+    .frtblur{
+        
+    position: absolute;
+    width: 50px;
+    height: 300px;
+  
+    top: 340%;
+    
+    background: #FF7B40;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(100.914px);
+    
+    }
+   }
+
+
+   /*820*/
+
+
+
+   
+@media (width:820px) {
+
+    body{
+        width: auto;
+    }
+      
+    .Groupcopy{
+ display: none;
+    }
+    .equalizer{
+        position: absolute;
+        width: 30%px;
+        height: 30%;
+        left: 8%;
+        top: 4%;
+        font-size: 50px;
+        padding-left: 30px;
+        color: #191826;
+        font-size: 70px;
+        font-weight: 800;
+        font-family: 'IBM Plex Sans';
+        }
+
+    .head{
+        height: 176px;
+        left: 10%;
+        top: 250px;
+       
+    font-family: 'IBM Plex Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 80px;
+   
+    
+    letter-spacing: -1px;
+    
+    color: #191826;
+   width: 150vw;
+     } 
+     .msg{
+        position: absolute;
+width:120vw;
+
+left: 10%;
+top: 550px;
+
+
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 44px;
+/* or 170% */
+
+
+color: #191826;
+    }   
+    .wrapper{
+        margin-top: 10%;
+        position: absolute;
+        width:120%;
+        height: 90%;
+        left: 12%;
+        top: 100%;
+        border-radius: 30px;
+background: #191826;
+    }
+    .circles{
+        padding-left: 20%;
+        width: 60%;
+       
+         }  
+    .phone{
+        position: absolute;
+
+
+left: 20%;
+top: -37%;
+z-index: 2;
+margin-top: 10%;
+width: 47%;
+background-size: 20px;
+border-bottom-left-radius: 26px;
+border-bottom-right-radius: 25px;
+    } 
+    .boxContainer{
+        margin-top: 10%;
+        position: absolute;
+        width:100%;
+        height: 90%;
+        left: 33%;
+        top: 172%;
+        border-radius: 30px;
+        background-color: #FA7453;
+        z-index: 2;
+        }  
+
+        .premium{
+
+            font-size: 80px;
+        }
+        .text2{
+            font-size: 30px;
+            width: 70%;
+        }
+        .text3{
+            font-size: 90px;
+          
+        }
+        .month{
+            font-size: 40px;
+            left: 30%;
+        }
+        .rectangle1{
+            position: absolute;
+        width: 80%;
+        height:10%;
+        left: 9%;
+        top: 70%;
+        
+        background: black;
+        border-radius: 12px;
+        }
+        .rectangle{
+            position: absolute;
+            width: 80%;
+            height:10%;
+            left: 9%;
+            top: 85%;
+            
+            background: #Ffff;
+            border-radius: 12px; 
+           
+        }
+        .fifthsection{
+    
+            top: 300%;
+            }
+            .group8{
+                position: absolute;
+                left: 5.99%;
+           
+              top: 200%;
+                bottom: 39.87%;
+            }
+            .equalizer2{
+    
+                position: absolute;
+                width: 146.09px;
+                height: 32px;
+                left: 12%;
+              
+                top: 280%;
+               
+                font-size: 70px;
+                color: #191826;
+                }
+                .right{
+
+                    position: absolute;
+                    left: 12%;
+                    right: 41.35%;
+                    top: 300%;
+                   
+                    width: 70%;
+                    font-family: 'IBM Plex Sans';
+                    font-style: normal;
+                    font-weight: 400;
+                    font-size: 20px;
+                    line-height: 26px;
+                    /* or 162% */
+                    
+                
+                    color: #191826; 
+                    }
+                    .email-text{
+                        color: black;
+                        font-weight: 1000;
+                        font-size: 30px;
+                    } 
+                    .group8{
+                        position: absolute;
+                        left: 5.99%;
+                   
+                      top: 200%;
+                        bottom: 39.87%;
+                    }    
+                    #path{
+                        left: 30%;
+                        width: 40px;
+                    }
+                    #path1{
+                        
+                        width: 40px;
+                    }
+                    #shape{
+                       width: 40px;       
+                        left: 5%;
+                    }
+                    
+       
+    .fblur{
+        position: absolute;
+    width: 384px;
+    height: 384px;
+    left: -60px;
+    top: -90px;
+    
+    background: #FF7B40;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(135.914px);
+    }
+    .sblur{
+        position: absolute;
+        width: 10px;
+        height: 384px;
+       
+    top: 371.5px;
+    
+    background: #FF9201;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(135.914px);
+    
+    }
+    .tblur{
+    
+        position: absolute;
+        width: 10px;
+        height: 60%;
+       
+        top: 60%;
+        
+        background: #40FFF6;
+        mix-blend-mode: normal;
+        opacity: 0.1;
+        filter: blur(135.914px);
+    }
+    .frtblur{
+        
+    position: absolute;
+    width: 20px;
+    height: 300px;
+  
+    top: 340%;
+    
+    background: #FF7B40;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(100.914px);
+    
+    }
+   }

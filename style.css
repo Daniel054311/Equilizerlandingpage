@@ -1,0 +1,443 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@600&display=swap');
+*{
+    font-family: 'IBM Plex Sans';
+}
+
+body{
+   
+    background: #FCFAF9;
+    width:auto;
+    }
+    .fblur{
+    position: absolute;
+width: 384px;
+height: 384px;
+left: -146px;
+top: -112px;
+
+background: #FF7B40;
+mix-blend-mode: normal;
+opacity: 0.15;
+filter: blur(135.914px);
+}
+.sblur{
+    position: absolute;
+    width: 384px;
+    height: 384px;
+    left: 899.5px;
+    top: 371.5px;
+    
+    background: #FF9201;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(135.914px);
+}
+.tblur{
+
+    position: absolute;
+    width: 384px;
+    height: 384px;
+    left: 899.5px;
+    top: 100.5px;
+    
+    background: #40FFF6;
+    mix-blend-mode: normal;
+    opacity: 0.28;
+    filter: blur(135.914px);
+}
+.frtblur{
+    position: absolute;
+    width: 384px;
+    height: 384px;
+    left: 1083px;
+    top: 1262px;
+    
+    background: #FF7B40;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    filter: blur(135.914px);
+
+}
+    .equalizer{
+    position: absolute;
+    width: 30%px;
+    height: 30%;
+    left: 8%;
+    top: 4%;
+    font-size: 28px;
+    padding-left: 30px;
+    color: #191826;
+    font-size: 34px;
+    font-weight: 800;
+    font-family: 'IBM Plex Sans';
+    }
+    .head{
+        position: absolute;
+        width: 70%;
+        height: 176px;
+        left: 10%;
+        top: 221px;
+       
+    font-family: 'IBM Plex Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 88px;
+    line-height: 88px;
+    /* or 100% */
+    
+    letter-spacing: -1px;
+    
+    color: #191826;
+        
+        }
+        .msg{
+            position: absolute;
+    width:70%;
+    height: 102px;
+    left: 10%;
+    top: 437px;
+    
+    
+    font-family: 'IBM Plex Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 34px;
+    /* or 170% */
+    
+    
+    color: #191826;
+        }
+        .Groupcopy{
+        
+            position: absolute;
+        
+          
+            left: 76.9%;
+            top: 0%;
+                }
+                         
+                .wrapper{
+                    margin-top: 10%;
+                    position: absolute;
+                    width: 85%;
+                    height: 90%;
+                    left: 5%;
+                    top: 120%;
+                    border-radius: 30px;
+            background: #191826;
+                }
+                .phone{
+                    position: absolute;
+            
+          
+            left: 7%;
+            top: -57%;
+            z-index: 2;
+            margin-top: 10%;
+         
+            background-size: 20px;
+            border-bottom-left-radius: 26px;
+            border-bottom-right-radius: 25px;
+                }               
+             /*   .circle1{
+                    position: absolute;
+            width: 15%;
+            height: 27%;
+            left: 26%;
+            top: 29%;
+            
+            background: #FFB964;
+            border-radius: 78px;
+                }
+                .circle2{
+                    box-sizing: border-box;
+            
+            position: absolute;
+            width: 15%;
+            height: 27%;
+            left: 25%;
+            top: 57%;
+            
+            border: 2px solid #fcf7f7;
+            border-radius: 50%;
+                }
+                .circle3{
+                    box-sizing: border-box;
+            
+            position: absolute;
+            width: 7%;
+            height: 13%;
+            left: 27%;
+            top: 70%;
+            
+            border: 2px solid #FCFAF9;
+            border-radius: 50%;
+                }
+                .recShape1{
+                    position: absolute;
+            width: 16%;
+            height: 45%;
+            left: 41.5%;
+            top: 12%;
+            
+            background: #66E2DC;
+            border-radius: 100px 100px 0px 100px;
+            
+                }
+                .recShape2{
+                    position: absolute;
+            width: 20%;
+            height: 30%;
+            left: 13%;
+            top: 0%;
+            
+            background: #66E2DC;
+            border-radius: 39px;
+                }
+                .circle5{
+                    
+            position: absolute;
+            width: 9%;
+            height: 17%;
+            left: 33%;
+            top: 10%;
+            
+            background: #FCFAF9;
+            border-radius: 78px;
+                }  */
+                .circles{
+padding-left: 30%;
+                }                   
+                .boxContainer{
+                    position: absolute;
+                    width: 35%;
+                    height: 90%;
+                    left: 50%;
+                    top: 155.5%;
+                    border-radius: 20px;
+                    background-color: #FA7453;
+                    }
+                    .text2{
+                        position: absolute;
+                        width: 360px;
+                        left: 9%;
+                        top: 20%;
+                        
+                        font-family: 'IBM Plex Sans';
+                        font-style: normal;
+                        font-weight: 400;
+                        font-size: 20px;
+                       
+                        /* or 170% */
+                        
+                        
+                        color: #f3f0ed;
+                    }
+                    .premium{
+                        position: absolute;
+                    
+                    left: 9%;
+                    top: 5%;
+                    height: 52px;
+                    font-family: 'IBM Plex Sans';
+                    font-style: normal;
+                    font-weight: 700;
+                    font-size: 30px;
+                    line-height: 52px;
+                    /* or 130% */
+                    
+                    
+                    color: #FCFAF9;
+                    }
+                    .text3{
+                        position: absolute;
+                        width: 50%;
+                        height: 15%;  
+                    
+                    font-style: normal;
+                        left: 9%;
+                        top: 49%;
+                         color:#FCFAF9 ;
+                         font-size: 50px;
+                         font-weight: 1000;
+                    }
+                    .month{
+                        position: absolute;
+                       
+                    
+                    font-style: normal;
+                        left: 22%;
+                        top: 52.5%;
+                         color:#FCFAF9 ;
+                         font-size: 18px;
+                         text-decoration: none;
+                         
+                    }
+                    .rectangle1{
+                        position: absolute;
+                    width: 80%;
+                    height:10%;
+                    left: 9%;
+                    top: 70%;
+                    
+                    background: #66E2DC;
+                    border-radius: 12px;
+                    }
+                    .rectangle{
+                        position: absolute;
+                        width: 80%;
+                        height:10%;
+                        left: 9%;
+                        top: 85%;
+                        
+                        background: #FFB964;
+                        border-radius: 12px; 
+                       
+                    }
+                
+                    .combined{
+                        position: absolute;
+                      
+                      
+                           top: 18.75%;
+                        bottom: 18.75%;
+                     
+                        color: #FCFAF9;
+                        position: absolute;
+                    height: 32px;
+                    left: 18%;
+                    
+                    top: calc(50% - 32px/2 + 0.2px);
+                    
+                 
+                    /* identical to box height, or 178% */
+                    
+                    text-align: center;
+                   
+                    
+                       
+                    
+                    }
+                    .ios{
+                        position: absolute;
+                      
+                      
+                           top: 18.75%;
+                        bottom: 18.75%;
+                        width: 100%;
+                        color: #FCFAF9;
+                        position: absolute;
+                    height: 32px;
+                    
+                    
+                    top: calc(50% - 32px/2 + 0.2px);
+                    
+                    font-family: 'IBM Plex Sans';
+                    font-style: normal;
+                    font-weight: 700;
+                    font-size: 23px;
+                    line-height: 32px;
+                    /* identical to box height, or 178% */
+                    
+                    text-align: center;
+                    letter-spacing: -0.18px;
+                    
+                       
+                    }
+                  
+                 
+                    .img_text{
+                        font-family: 'IBM Plex Sans';
+                        position: absolute;
+                        left: 35%;
+                    
+                        font-weight: 1000;
+                        bottom: 25%;
+                     
+                    font-size: 23px;
+                    color: #191826;
+                    }
+                    .img_logo{
+                        position: absolute;
+                      
+                      
+                        top: 18.75%;
+                     bottom: 18.75%;
+                  
+                     color: black;
+                   
+                 height: 32px;
+                 left: 18%;
+                 
+                 top: calc(50% - 32px/2 + 0.2px);
+                 
+              
+                 /* identical to box height, or 178% */
+                 
+                 text-align: center;
+                
+                 
+                    
+                    }               
+                     .fifthsection{
+    
+                        position: absolute;
+                        width: 90%;
+                        height: 79px;
+                        left: 9%;
+                        top: 240%;
+                        }
+                        .equalizer2{
+    
+                            position: absolute;
+                            width: 146.09px;
+                            height: 32px;
+                            left: 5%;
+                          
+                            top: 255%;
+                           
+                            font-size: 30px;
+                            color: #191826;
+                            }
+                            .right{
+   
+                                position: absolute;
+                                left: 20.68%;
+                                right: 41.35%;
+                                top: 260%;
+                               
+                                width: 30%;
+                                font-family: 'IBM Plex Sans';
+                                font-style: normal;
+                                font-weight: 400;
+                                font-size: 16px;
+                                line-height: 26px;
+                                /* or 162% */
+                                
+                            
+                                color: #191826; 
+                                }
+                                .email-text{
+                                    color: black;
+                                    font-weight: 1000;
+                                    font-size: 30px;
+                                }
+                            .group8{
+                                position: absolute;
+                                left: 85.99%;
+                           
+                              top: 200%;
+                                bottom: 39.87%;
+                            }
+
+                            #shape{
+                              
+                                padding-left: 20px;
+                                padding-right: 20px;
+                            }
+                           
+                           
+                            /* */
+
+
